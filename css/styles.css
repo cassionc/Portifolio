@@ -5,3 +5,16 @@
   background-color: #6F38C5 ;
   color: #FFFFFF ;
 }
+
+.container-fluid {
+  padding: 2% 5% 2%;
+}
+
+/* Navgation Bar */
+.navbar {
+  padding: 0 0 1rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
